@@ -1,10 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0ed6fed8-140e-4270-b74a-4d6a3a3c07c9" name="Default" comment="" />
+    <list default="true" id="0ed6fed8-140e-4270-b74a-4d6a3a3c07c9" name="Default" comment="git ignore">
+      <change afterPath="$PROJECT_DIR$/boot-order-consumer/src/main/java/com/dity/dubbo/controller/OrderController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot-order-consumer/src/main/java/com/dity/dubbo/service/impl/OrderServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot-user-provider/src/main/java/com/dity/dubbo/config/MyDubboConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boot-user-provider/src/main/java/com/dity/dubbo/service/impl/UserServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/order-service-consumer/src/main/java/com/dity/gmall/service/impl/OrderServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/order-service-consumer/src/main/java/com/dity/gmall/service/impl/OrderServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/order-service-consumer/src/main/resources/consumer.xml" beforeDir="false" afterPath="$PROJECT_DIR$/order-service-consumer/src/main/resources/consumer.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user-service-provider/src/main/java/com/dity/gmall/service/impl/UserServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/user-service-provider/src/main/java/com/dity/gmall/service/impl/UserServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user-service-provider/src/main/resources/provider.xml" beforeDir="false" afterPath="$PROJECT_DIR$/user-service-provider/src/main/resources/provider.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/user-service-provider/target/classes/com/dity/gmall/MainApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/user-service-provider/target/classes/com/dity/gmall/MainApplication.class" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/order-service-consumer/target/" />
     <ignored path="$PROJECT_DIR$/gmall-interface/target/" />
     <ignored path="$PROJECT_DIR$/user-service-provider/target/" />
+    <ignored path="$PROJECT_DIR$/boot-user-provider/target/" />
+    <ignored path="$PROJECT_DIR$/boot-order-consumer/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -13,7 +29,42 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file leaf-file-name="BootUserProviderApplication.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/boot-user-provider/src/main/java/com/dity/dubbo/BootUserProviderApplication.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="96">
+              <caret line="7" selection-start-line="7" selection-end-line="14" selection-end-column="3" />
+              <folding>
+                <element signature="e#429#430#0" expanded="true" />
+                <element signature="e#507#508#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MyDubboConfig.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/boot-user-provider/src/main/java/com/dity/dubbo/config/MyDubboConfig.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="144">
+              <caret line="18" column="22" selection-start-line="18" selection-start-column="22" selection-end-line="18" selection-end-column="22" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="consumer.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/order-service-consumer/src/main/resources/consumer.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="173">
+              <caret line="11" column="23" lean-forward="true" selection-start-line="11" selection-end-line="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -23,6 +74,9 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -34,11 +88,21 @@
         <option value="$PROJECT_DIR$/order-service-consumer/pom.xml" />
         <option value="$PROJECT_DIR$/order-service-consumer/src/main/java/com/dity/gmall/MainApplication.java" />
         <option value="$PROJECT_DIR$/gmall-interface/src/main/java/com/dity/gmall/bean/UserAddress.java" />
-        <option value="$PROJECT_DIR$/user-service-provider/src/main/resources/provider.xml" />
-        <option value="$PROJECT_DIR$/user-service-provider/src/main/java/com/dity/gmall/service/impl/UserServiceImpl.java" />
-        <option value="$PROJECT_DIR$/order-service-consumer/src/main/resources/consumer.xml" />
-        <option value="$PROJECT_DIR$/order-service-consumer/src/main/java/com/dity/gmall/service/impl/OrderServiceImpl.java" />
         <option value="$PROJECT_DIR$/user-service-provider/src/main/java/com/dity/gmall/MainApplication.java" />
+        <option value="$PROJECT_DIR$/boot-user-provider/pom.xml" />
+        <option value="$PROJECT_DIR$/boot-user-provider/src/main/java/com/dity/dubbo/service/impl/UserServiceImpl.java" />
+        <option value="$PROJECT_DIR$/boot-order-consumer/pom.xml" />
+        <option value="$PROJECT_DIR$/boot-user-provider/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/boot-order-consumer/src/main/java/com/dity/dubbo/BootOrderConsumerApplication.java" />
+        <option value="$PROJECT_DIR$/boot-order-consumer/src/main/java/com/dity/dubbo/service/impl/OrderServiceImpl.java" />
+        <option value="$PROJECT_DIR$/boot-order-consumer/src/main/java/com/dity/dubbo/controller/OrderController.java" />
+        <option value="$PROJECT_DIR$/boot-order-consumer/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/order-service-consumer/src/main/java/com/dity/gmall/service/impl/OrderServiceImpl.java" />
+        <option value="$PROJECT_DIR$/user-service-provider/src/main/java/com/dity/gmall/service/impl/UserServiceImpl.java" />
+        <option value="$PROJECT_DIR$/user-service-provider/src/main/resources/provider.xml" />
+        <option value="$PROJECT_DIR$/order-service-consumer/src/main/resources/consumer.xml" />
+        <option value="$PROJECT_DIR$/boot-user-provider/src/main/java/com/dity/dubbo/BootUserProviderApplication.java" />
+        <option value="$PROJECT_DIR$/boot-user-provider/src/main/java/com/dity/dubbo/config/MyDubboConfig.java" />
       </list>
     </option>
   </component>
@@ -66,70 +130,91 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="260" />
     <option name="y" value="20" />
     <option name="width" value="1400" />
     <option name="height" value="1000" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
+      <pane id="AndroidView" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="dubbo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="gmall-interface" type="462c0819:PsiDirectoryNode" />
+              <item name="boot-user-provider" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="dubbo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="gmall-interface" type="462c0819:PsiDirectoryNode" />
+              <item name="boot-user-provider" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="dubbo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="gmall-interface" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="dubbo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="gmall-interface" type="462c0819:PsiDirectoryNode" />
+              <item name="boot-user-provider" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="dubbo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="gmall-interface" type="462c0819:PsiDirectoryNode" />
+              <item name="boot-user-provider" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="com" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="dubbo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="gmall-interface" type="462c0819:PsiDirectoryNode" />
+              <item name="boot-user-provider" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="com" type="462c0819:PsiDirectoryNode" />
-              <item name="dity" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="dubbo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="gmall-interface" type="462c0819:PsiDirectoryNode" />
+              <item name="boot-user-provider" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="com" type="462c0819:PsiDirectoryNode" />
               <item name="dity" type="462c0819:PsiDirectoryNode" />
-              <item name="gmall" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dubbo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="boot-user-provider" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="dity" type="462c0819:PsiDirectoryNode" />
+              <item name="dubbo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dubbo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="boot-user-provider" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="dity" type="462c0819:PsiDirectoryNode" />
+              <item name="dubbo" type="462c0819:PsiDirectoryNode" />
+              <item name="config" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="dubbo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="boot-user-provider" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="dubbo" type="b2602c69:ProjectViewProjectNode" />
@@ -288,16 +373,12 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="dubbo" type="b2602c69:ProjectViewProjectNode" />
-              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="AndroidView" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -313,6 +394,8 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\code\idea-workspace\dubbo\boot-user-provider\src\main\java\com\dity\dubbo" />
+      <recent name="D:\code\idea-workspace\dubbo\boot-order-consumer\src\main\java\com\dity\dubbo" />
       <recent name="D:\code\idea-workspace\dubbo\order-service-consumer\src\main\resources" />
       <recent name="D:\code\idea-workspace\dubbo\gmall-interface\src\main\java\com\dity\gmall" />
     </key>
@@ -330,6 +413,28 @@
     </option>
   </component>
   <component name="RunManager" selected="Application.MainApplication (1)">
+    <configuration name="BootOrderConsumerApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.dity.dubbo.BootOrderConsumerApplication" />
+      <module name="boot-order-consumer" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.dity.dubbo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="BootUserProviderApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.dity.dubbo.BootUserProviderApplication" />
+      <module name="boot-user-provider" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.dity.dubbo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
     <configuration name="MainApplication (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.dity.gmall.MainApplication" />
       <module name="order-service-consumer" />
@@ -396,11 +501,15 @@
     <list>
       <item itemvalue="Application.MainApplication" />
       <item itemvalue="Application.MainApplication (1)" />
+      <item itemvalue="Application.BootUserProviderApplication" />
+      <item itemvalue="Application.BootOrderConsumerApplication" />
     </list>
     <recent_temporary>
       <list>
         <item itemvalue="Application.MainApplication (1)" />
         <item itemvalue="Application.MainApplication" />
+        <item itemvalue="Application.BootOrderConsumerApplication" />
+        <item itemvalue="Application.BootUserProviderApplication" />
       </list>
     </recent_temporary>
   </component>
@@ -415,46 +524,51 @@
       <option name="presentableId" value="Default" />
       <updated>1544450475945</updated>
       <workItem from="1544450477134" duration="3661000" />
+      <workItem from="1544536106235" duration="3730000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3661000" />
+    <option name="totallyTimeSpent" value="7461000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="RestServices" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="right" id="Maven Projects" />
-      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
-      <window_info id="Capture Tool" />
-      <window_info id="Designer" />
-      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="RestServices" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="right" id="Maven Projects" order="3" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Designer" order="2" />
+      <window_info anchor="right" id="Database" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info id="UI Designer" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39935064" />
+      <window_info id="UI Designer" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39869988" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info id="Image Layers" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.3452381" />
-      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Spring" />
-      <window_info anchor="bottom" id="MyBatis Sql Log" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26439232" />
-      <window_info anchor="right" id="Theme Preview" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Messages" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info id="Image Layers" order="2" />
+      <window_info anchor="bottom" id="Java Enterprise" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.34561214" />
+      <window_info anchor="bottom" id="Spring" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="MyBatis Sql Log" order="7" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22974414" />
+      <window_info anchor="right" id="Bean Validation" />
+      <window_info id="Web" side_tool="true" />
+      <window_info anchor="right" id="Theme Preview" order="3" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -462,6 +576,10 @@
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="git ignore" />
+    <option name="LAST_COMMIT_MESSAGE" value="git ignore" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/gmall-interface/pom.xml">
@@ -471,16 +589,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="456">
           <caret line="19" column="24" selection-start-line="19" selection-start-column="24" selection-end-line="19" selection-end-column="24" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/order-service-consumer/src/main/java/com/dity/gmall/controller/OrderController.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="6" selection-start-line="6" selection-end-line="6" />
         </state>
       </provider>
     </entry>
@@ -495,9 +603,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="312">
           <caret line="13" column="23" selection-start-line="13" selection-start-column="23" selection-end-line="13" selection-end-column="23" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -508,35 +613,130 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/user-service-provider/src/main/java/com/dity/gmall/service/impl/UserServiceImpl.java">
+    <entry file="file://$PROJECT_DIR$/user-service-provider/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="456">
-          <caret line="19" selection-start-line="19" selection-end-line="19" />
+        <state relative-caret-position="312">
+          <caret line="36" column="21" selection-start-line="16" selection-start-column="6" selection-end-line="36" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gmall-interface/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/alibaba/dubbo/2.6.2/dubbo-2.6.2.jar!/META-INF/compat/dubbo.xsd">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="263">
+          <caret line="1176" column="14" selection-start-line="1176" selection-start-column="10" selection-end-line="1176" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/boot-user-provider/src/main/java/com/dity/dubbo/service/impl/UserServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="720">
+          <caret line="30" column="11" selection-start-line="30" selection-start-column="11" selection-end-line="30" selection-end-column="11" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/order-service-consumer/src/main/java/com/dity/gmall/service/impl/OrderServiceImpl.java">
+    <entry file="file://$PROJECT_DIR$/boot-user-provider/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="17" column="14" selection-start-line="17" selection-start-column="14" selection-end-line="17" selection-end-column="14" />
+        <state relative-caret-position="168">
+          <caret line="28" column="4" selection-start-line="28" selection-start-column="4" selection-end-line="32" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/boot-user-provider/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="6" column="25" selection-start-line="6" selection-start-column="25" selection-end-line="6" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/boot-order-consumer/src/main/java/com/dity/dubbo/service/impl/OrderServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="143">
+          <caret line="27" column="5" selection-start-line="27" selection-start-column="5" selection-end-line="27" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#319#320#0" expanded="true" />
-            <element signature="e#346#347#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/order-service-consumer/src/main/java/com/dity/gmall/MainApplication.java">
+    <entry file="file://$PROJECT_DIR$/boot-order-consumer/src/main/java/com/dity/dubbo/BootOrderConsumerApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="7" column="12" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
+          <folding>
+            <element signature="e#257#258#0" expanded="true" />
+            <element signature="e#336#337#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/boot-order-consumer/src/main/java/com/dity/dubbo/controller/OrderController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="311">
+          <caret line="20" column="31" selection-start-line="20" selection-start-column="22" selection-end-line="20" selection-end-column="31" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/boot-order-consumer/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="240">
-          <caret line="10" column="3" lean-forward="true" selection-start-line="10" selection-start-column="3" selection-end-line="10" selection-end-column="3" />
+          <caret line="37" column="21" lean-forward="true" selection-start-line="33" selection-start-column="5" selection-end-line="37" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/boot-order-consumer/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="2" column="20" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/alibaba/dubbo/2.6.2/dubbo-2.6.2-sources.jar!/com/alibaba/dubbo/config/AbstractMethodConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-529">
+          <caret line="29" column="22" selection-start-line="29" selection-start-column="22" selection-end-line="29" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/alibaba/dubbo/2.6.2/dubbo-2.6.2-sources.jar!/com/alibaba/dubbo/config/AbstractInterfaceConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-9615">
+          <caret line="48" column="65" lean-forward="true" selection-start-line="48" selection-start-column="65" selection-end-line="48" selection-end-column="65" />
+          <folding>
+            <element signature="e#0#19225#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/order-service-consumer/src/main/java/com/dity/gmall/controller/OrderController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/user-service-provider/src/main/java/com/dity/gmall/service/impl/UserServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="18" column="50" selection-start-line="18" selection-start-column="50" selection-end-line="18" selection-end-column="50" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/user-service-provider/src/main/resources/provider.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="16" column="44" selection-start-line="16" selection-start-column="44" selection-end-line="16" selection-end-column="44" />
         </state>
       </provider>
     </entry>
@@ -550,24 +750,51 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/user-service-provider/pom.xml">
+    <entry file="file://$PROJECT_DIR$/order-service-consumer/src/main/java/com/dity/gmall/service/impl/OrderServiceImpl.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="312">
-          <caret line="36" column="21" selection-start-line="16" selection-start-column="6" selection-end-line="36" selection-end-column="21" />
+        <state relative-caret-position="287">
+          <caret line="18" column="14" selection-start-line="18" selection-start-column="14" selection-end-line="18" selection-end-column="14" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/user-service-provider/src/main/resources/provider.xml">
+    <entry file="file://$PROJECT_DIR$/order-service-consumer/src/main/java/com/dity/gmall/MainApplication.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="452">
-          <caret line="28" column="74" lean-forward="true" selection-start-line="8" selection-start-column="2" selection-end-line="28" selection-end-column="74" />
+        <state relative-caret-position="183">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/order-service-consumer/src/main/resources/consumer.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="78">
-          <caret line="10" column="4" selection-start-line="10" selection-start-column="4" selection-end-line="26" selection-end-column="83" />
+        <state relative-caret-position="173">
+          <caret line="11" column="23" lean-forward="true" selection-start-line="11" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/boot-user-provider/src/main/java/com/dity/dubbo/config/MyDubboConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="18" column="22" selection-start-line="18" selection-start-column="22" selection-end-line="18" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/boot-user-provider/src/main/java/com/dity/dubbo/BootUserProviderApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="96">
+          <caret line="7" selection-start-line="7" selection-end-line="14" selection-end-column="3" />
+          <folding>
+            <element signature="e#429#430#0" expanded="true" />
+            <element signature="e#507#508#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -588,7 +815,7 @@
       </state>
       <state key="FacetStructureConfigurable.UI">
         <settings>
-          <last-edited>No facets are configured</last-edited>
+          <last-edited>Spring</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -623,7 +850,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>gmall-interface</last-edited>
+          <last-edited>boot-order-consumer</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -648,6 +875,7 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
+          <last-edited>Maven: com.101tec:zkclient:0.10</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>

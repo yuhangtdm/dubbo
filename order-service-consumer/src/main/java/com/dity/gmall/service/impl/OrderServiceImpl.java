@@ -15,7 +15,8 @@ import java.util.List;
  */
 @Service
 public class OrderServiceImpl implements OrderService {
-    @Reference
+//    @Reference
+    @Autowired
     private UserService userService;
 
     @Override
