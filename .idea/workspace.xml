@@ -1,20 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="0ed6fed8-140e-4270-b74a-4d6a3a3c07c9" name="Default" comment="git ignore">
-      <change afterPath="$PROJECT_DIR$/boot-order-consumer/src/main/java/com/dity/dubbo/controller/OrderController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/boot-order-consumer/src/main/java/com/dity/dubbo/service/impl/OrderServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/boot-user-provider/src/main/java/com/dity/dubbo/config/MyDubboConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/boot-user-provider/src/main/java/com/dity/dubbo/service/impl/UserServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+    <list default="true" id="0ed6fed8-140e-4270-b74a-4d6a3a3c07c9" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/order-service-consumer/src/main/java/com/dity/gmall/service/impl/OrderServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/order-service-consumer/src/main/java/com/dity/gmall/service/impl/OrderServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/order-service-consumer/src/main/resources/consumer.xml" beforeDir="false" afterPath="$PROJECT_DIR$/order-service-consumer/src/main/resources/consumer.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/user-service-provider/src/main/java/com/dity/gmall/service/impl/UserServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/user-service-provider/src/main/java/com/dity/gmall/service/impl/UserServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/user-service-provider/src/main/resources/provider.xml" beforeDir="false" afterPath="$PROJECT_DIR$/user-service-provider/src/main/resources/provider.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/user-service-provider/target/classes/com/dity/gmall/MainApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/user-service-provider/target/classes/com/dity/gmall/MainApplication.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/order-service-consumer/target/" />
     <ignored path="$PROJECT_DIR$/gmall-interface/target/" />
@@ -29,16 +17,12 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file leaf-file-name="BootUserProviderApplication.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/boot-user-provider/src/main/java/com/dity/dubbo/BootUserProviderApplication.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="96">
-              <caret line="7" selection-start-line="7" selection-end-line="14" selection-end-column="3" />
-              <folding>
-                <element signature="e#429#430#0" expanded="true" />
-                <element signature="e#507#508#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="312">
+              <caret line="16" column="12" selection-start-line="16" selection-start-column="12" selection-end-line="16" selection-end-column="12" />
             </state>
           </provider>
         </entry>
@@ -46,7 +30,7 @@
       <file leaf-file-name="MyDubboConfig.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/boot-user-provider/src/main/java/com/dity/dubbo/config/MyDubboConfig.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="144">
+            <state relative-caret-position="120">
               <caret line="18" column="22" selection-start-line="18" selection-start-column="22" selection-end-line="18" selection-end-column="22" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -58,8 +42,8 @@
       <file leaf-file-name="consumer.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/order-service-consumer/src/main/resources/consumer.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="173">
-              <caret line="11" column="23" lean-forward="true" selection-start-line="11" selection-end-line="12" />
+            <state relative-caret-position="264">
+              <caret line="11" column="23" selection-start-line="11" selection-end-line="12" />
             </state>
           </provider>
         </entry>
@@ -101,8 +85,8 @@
         <option value="$PROJECT_DIR$/user-service-provider/src/main/java/com/dity/gmall/service/impl/UserServiceImpl.java" />
         <option value="$PROJECT_DIR$/user-service-provider/src/main/resources/provider.xml" />
         <option value="$PROJECT_DIR$/order-service-consumer/src/main/resources/consumer.xml" />
-        <option value="$PROJECT_DIR$/boot-user-provider/src/main/java/com/dity/dubbo/BootUserProviderApplication.java" />
         <option value="$PROJECT_DIR$/boot-user-provider/src/main/java/com/dity/dubbo/config/MyDubboConfig.java" />
+        <option value="$PROJECT_DIR$/boot-user-provider/src/main/java/com/dity/dubbo/BootUserProviderApplication.java" />
       </list>
     </option>
   </component>
@@ -144,8 +128,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView" />
       <pane id="PackagesPane" />
+      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -476,6 +460,14 @@
       </option>
       <patterns />
     </configuration>
+    <configuration name="BootOrderConsumerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="boot-order-consumer" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.dity.dubbo.BootOrderConsumerApplication" />
+    </configuration>
+    <configuration name="BootUserProviderApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="boot-user-provider" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.dity.dubbo.BootUserProviderApplication" />
+    </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
@@ -499,6 +491,8 @@
       <listeners />
     </configuration>
     <list>
+      <item itemvalue="Spring Boot.BootOrderConsumerApplication" />
+      <item itemvalue="Spring Boot.BootUserProviderApplication" />
       <item itemvalue="Application.MainApplication" />
       <item itemvalue="Application.MainApplication (1)" />
       <item itemvalue="Application.BootUserProviderApplication" />
@@ -524,16 +518,24 @@
       <option name="presentableId" value="Default" />
       <updated>1544450475945</updated>
       <workItem from="1544450477134" duration="3661000" />
-      <workItem from="1544536106235" duration="3730000" />
+      <workItem from="1544536106235" duration="4512000" />
+      <workItem from="1545827178379" duration="598000" />
     </task>
+    <task id="LOCAL-00001" summary="boot整合dubbo  以及dubbo的高级配置">
+      <created>1544540019679</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1544540019679</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7461000" />
+    <option name="totallyTimeSpent" value="8841000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="right" id="RestServices" order="3" />
@@ -548,25 +550,25 @@
       <window_info id="UI Designer" order="2" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39869988" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Messages" order="7" />
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info id="Image Layers" order="2" />
-      <window_info anchor="bottom" id="Java Enterprise" />
+      <window_info anchor="bottom" id="Java Enterprise" order="8" />
       <window_info anchor="right" id="Capture Analysis" order="3" />
       <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.34561214" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.34561214" />
       <window_info anchor="bottom" id="Spring" order="7" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info anchor="bottom" id="MyBatis Sql Log" order="7" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22974414" />
-      <window_info anchor="right" id="Bean Validation" />
-      <window_info id="Web" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23240939" />
+      <window_info anchor="right" id="Bean Validation" order="4" />
+      <window_info id="Web" order="3" side_tool="true" />
       <window_info anchor="right" id="Theme Preview" order="3" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Messages" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
@@ -579,9 +581,34 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="git ignore" />
-    <option name="LAST_COMMIT_MESSAGE" value="git ignore" />
+    <MESSAGE value="boot整合dubbo  以及dubbo的高级配置" />
+    <option name="LAST_COMMIT_MESSAGE" value="boot整合dubbo  以及dubbo的高级配置" />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/boot-user-provider/src/main/java/com/dity/dubbo/BootUserProviderApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="384">
+          <caret line="16" column="12" lean-forward="true" selection-start-line="16" selection-start-column="12" selection-end-line="16" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/boot-user-provider/src/main/java/com/dity/dubbo/config/MyDubboConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="18" column="22" selection-start-line="18" selection-start-column="22" selection-end-line="18" selection-end-column="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/order-service-consumer/src/main/resources/consumer.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="11" column="23" lean-forward="true" selection-start-line="11" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/gmall-interface/pom.xml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
@@ -634,9 +661,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="720">
           <caret line="30" column="11" selection-start-line="30" selection-start-column="11" selection-end-line="30" selection-end-column="11" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -658,9 +682,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="143">
           <caret line="27" column="5" selection-start-line="27" selection-start-column="5" selection-end-line="27" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -668,10 +689,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
           <caret line="7" column="12" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
-          <folding>
-            <element signature="e#257#258#0" expanded="true" />
-            <element signature="e#336#337#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -679,9 +696,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="311">
           <caret line="20" column="31" selection-start-line="20" selection-start-column="22" selection-end-line="20" selection-end-column="31" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -710,9 +724,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-9615">
           <caret line="48" column="65" lean-forward="true" selection-start-line="48" selection-start-column="65" selection-end-line="48" selection-end-column="65" />
-          <folding>
-            <element signature="e#0#19225#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -727,9 +738,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="280">
           <caret line="18" column="50" selection-start-line="18" selection-start-column="50" selection-end-line="18" selection-end-column="50" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -744,9 +752,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="120">
           <caret line="14" column="17" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -754,9 +759,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="287">
           <caret line="18" column="14" selection-start-line="18" selection-start-column="14" selection-end-line="18" selection-end-column="14" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -764,22 +766,19 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="183">
           <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/order-service-consumer/src/main/resources/consumer.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="173">
-          <caret line="11" column="23" lean-forward="true" selection-start-line="11" selection-end-line="12" />
+        <state relative-caret-position="264">
+          <caret line="11" column="23" selection-start-line="11" selection-end-line="12" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/boot-user-provider/src/main/java/com/dity/dubbo/config/MyDubboConfig.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
+        <state relative-caret-position="120">
           <caret line="18" column="22" selection-start-line="18" selection-start-column="22" selection-end-line="18" selection-end-column="22" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -789,12 +788,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/boot-user-provider/src/main/java/com/dity/dubbo/BootUserProviderApplication.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="96">
-          <caret line="7" selection-start-line="7" selection-end-line="14" selection-end-column="3" />
-          <folding>
-            <element signature="e#429#430#0" expanded="true" />
-            <element signature="e#507#508#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="312">
+          <caret line="16" column="12" selection-start-line="16" selection-start-column="12" selection-end-line="16" selection-end-column="12" />
         </state>
       </provider>
     </entry>
